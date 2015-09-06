@@ -1,0 +1,12 @@
+[package]
+name = "microsrv"
+version = "0.1.0"
+authors = ["jFransham <jack.fransham@cuvva.co>"]
+
+[dependencies]
+semver = "*"
+iron = "*"
+hyper = "*"
+serde = "*"
+serde_macros = "*"
+serde_json = "*"
